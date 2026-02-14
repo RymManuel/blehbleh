@@ -3,7 +3,7 @@ export const LETTER_BG = 'https://d64gsuwffb70l.cloudfront.net/698f5775d15b5e59f
 
 export const PHOTOS = [
   // Summer Beginnings
-  { id: 1, src: '/images/IMG_20241029_180936.jpg', caption: 'The Beginning - Our First Chapter' },
+  { id: 1, src: '/images/IMG_20250720_103737.jpg', caption: 'The Beginning - Our First Chapter' },
   { id: 2, src: '/images/IMG_20240616_161055.jpg', caption: 'Where Our Love Started' },
   { id: 3, src: '/images/IMG_20240928_165618.jpg', caption: 'Your Smile Takes My Breath Away' },
   { id: 4, src: '/images/IMG_20240928_165622.jpg', caption: 'You Are My Greatest Joy' },

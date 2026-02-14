@@ -100,7 +100,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({ onScrollDown }) => {
             className="text-xl md:text-2xl text-rose-100/90 mb-2"
             style={{ fontFamily: "'Dancing Script', cursive" }}
           >
-            A Love Story Written in the Stars
+            Happy Valentine's Day My Baby
           </p>
           <div className="flex items-center justify-center gap-3 mt-4">
             <div className="h-px w-12 md:w-20 bg-gradient-to-r from-transparent to-rose-300/60" />
