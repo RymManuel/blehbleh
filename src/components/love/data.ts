@@ -3,7 +3,7 @@ export const LETTER_BG = 'https://d64gsuwffb70l.cloudfront.net/698f5775d15b5e59f
 
 export const PHOTOS = [
   // Summer Beginnings
-  { id: 1, src: '/images/IMG_20240616_161042.jpg', caption: 'The Beginning - Our First Chapter' },
+  { id: 1, src: '/images/IMG_20241029_180936.jpg', caption: 'The Beginning - Our First Chapter' },
   { id: 2, src: '/images/IMG_20240616_161055.jpg', caption: 'Where Our Love Started' },
   { id: 3, src: '/images/IMG_20240928_165618.jpg', caption: 'Your Smile Takes My Breath Away' },
   { id: 4, src: '/images/IMG_20240928_165622.jpg', caption: 'You Are My Greatest Joy' },
@@ -33,7 +33,7 @@ export const PHOTOS = [
   
   // December Magic
   { id: 22, src: '/images/IMG_20241206_192342.jpg', caption: 'December Dreams' },
-  { id: 23, src: '/images/IMG_20241206_192348.jpg', caption: 'Warm Love in Cold Days' },
+  { id: 23, src: '/images/IMG_20250406_202240.jpg', caption: 'Warm Love in Cold Days' },
   { id: 24, src: '/images/IMG_20241209_133114.jpg', caption: 'Holiday Joy' },
   { id: 25, src: '/images/IMG_20241209_133126.jpg', caption: 'Cozy Moments' },
   { id: 26, src: '/images/IMG_20241213_175255.jpg', caption: 'Celebrating Us' },
@@ -60,7 +60,7 @@ export const PHOTOS = [
   
   // February - Valentine's Month
   { id: 43, src: '/images/IMG_20250207_181938.jpg', caption: 'Pre-Valentine Glow' },
-  { id: 44, src: '/images/IMG_20250207_181954.jpg', caption: 'Anticipation' },
+  { id: 44, src: '/images/IMG_20250101_105414.jpg', caption: 'Anticipation' },
   { id: 45, src: '/images/IMG_20250208_144700.jpg', caption: 'Almost Valentine\'s Day' },
   { id: 46, src: '/images/IMG_20250208_144727.jpg', caption: 'Love Is In The Air' },
   { id: 47, src: '/images/IMG_20250208_144733.jpg', caption: 'My Valentine' },
@@ -86,7 +86,7 @@ export const PHOTOS = [
   
   // Spring Awakening
   { id: 63, src: '/images/IMG_20250305_124048.jpg', caption: 'Spring Love Blooms' },
-  { id: 64, src: '/images/IMG_20250305_124100.jpg', caption: 'New Season Energy' },
+  { id: 64, src: '/images/IMG_20251213_190150.jpg', caption: 'New Season Energy' },
   { id: 65, src: '/images/IMG_20250305_124109.jpg', caption: 'Springtime With You' },
   { id: 66, src: '/images/IMG_20250317_110117.jpg', caption: 'Spring Adventures' },
   { id: 67, src: '/images/IMG_20250317_110124.jpg', caption: 'Growth Together' },
@@ -142,7 +142,7 @@ export const PHOTOS = [
   { id: 101, src: '/images/IMG_20251102_102953.jpg', caption: 'November Arrives' },
   { id: 102, src: '/images/IMG_20251102_102959.jpg', caption: 'Grateful For You' },
   { id: 103, src: '/images/IMG_20251112_195910.jpg', caption: 'November Nights' },
-  { id: 104, src: '/images/IMG_20251112_195916.jpg', caption: 'Season Of Thanks' },
+  { id: 104, src: '/images/IMG_20251112_200610.jpg', caption: 'Season Of Thanks' },
   { id: 105, src: '/images/IMG_20251112_200555.jpg', caption: 'Thanksgiving Love' },
   { id: 106, src: '/images/IMG_20251112_200610.jpg', caption: 'Blessed Together' },
   { id: 107, src: '/images/IMG_20251120_181551.jpg', caption: 'November Evenings' },
@@ -157,7 +157,7 @@ export const PHOTOS = [
   { id: 114, src: '/images/IMG_20251220_194511.jpg', caption: 'Festive Together' },
   
   // New Year 2026
-  { id: 115, src: '/images/IMG_20260101_112442.jpg', caption: 'New Year Eve' },
+  { id: 115, src: '/images/IMG_20251112_200610.jpg', caption: 'New Year Eve' },
   { id: 116, src: '/images/IMG_20260101_121000.jpg', caption: 'New Year Morning' },
   
   // This Year - 2026
