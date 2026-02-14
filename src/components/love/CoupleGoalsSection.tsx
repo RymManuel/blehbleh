@@ -3,12 +3,12 @@ import { MapPin, Check, Heart } from 'lucide-react';
 
 const GOALS = [
   { text: "Watch the sunrise together", category: "adventure" },
-  { text: "Cook a fancy dinner at home", category: "home" },
-  { text: "Take a spontaneous road trip", category: "adventure" },
+  { text: "Mag luto sang pagkaon and will serve as a dinner para saton", category: "home" },
+  { text: "Mahaba nga Roadtrip", category: "adventure" },
   { text: "Dance in the rain", category: "romance" },
   { text: "Write each other love letters", category: "romance" },
-  { text: "Build a blanket fort and watch movies", category: "home" },
-  { text: "Visit Paris together", category: "travel" },
+  { text: "Camping", category: "romance" },
+  { text: "Travel Around the wordl", category: "travel" },
   { text: "Learn to dance together", category: "adventure" },
   { text: "Have a picnic under the stars", category: "romance" },
   { text: "Take matching silly photos", category: "fun" },
