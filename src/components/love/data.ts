@@ -86,7 +86,7 @@ export const PHOTOS = [
   
   // Spring Awakening
   { id: 63, src: '/images/IMG_20250305_124048.jpg', caption: 'Spring Love Blooms' },
-  { id: 64, src: '/images/IMG_20251213_190150.jpg', caption: 'New Season Energy' },
+  { id: 64, src: '/images/IMG_20250305_124109.jpg.jpg', caption: 'New Season Energy' },
   { id: 65, src: '/images/IMG_20250305_124109.jpg', caption: 'Springtime With You' },
   { id: 66, src: '/images/IMG_20250317_110117.jpg', caption: 'Spring Adventures' },
   { id: 67, src: '/images/IMG_20250317_110124.jpg', caption: 'Growth Together' },
