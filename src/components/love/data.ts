@@ -325,9 +325,9 @@ export const QUIZ_QUESTIONS = [
     answer: 1,
   },
   {
-    question: 'What\'s my favorite thing about you?',
-    options: ['Your smile', 'Your laugh', 'Your eyes', 'Everything'],
-    answer: 3,
+    question: 'Ano ya pinaka ginakahadlukan kong sapat?',
+    options: ['Tiki', 'Damang', 'Ipis', 'Lamok'],
+    answer: 1,
   },
   {
     question: 'What\'s our song?',
@@ -340,9 +340,9 @@ export const QUIZ_QUESTIONS = [
     answer: 2,
   },
   {
-    question: 'How much do I love you?',
-    options: ['A lot', 'So much', 'More than words can say', 'To infinity and beyond'],
-    answer: 3,
+    question: 'Ano nga Year ko gin tawo?EX. Year of the Dragon.',
+    options: ['Monkey', 'Pig', 'Snake', 'Sheep'],
+    answer: 0,
   },
 ];
 
